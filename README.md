@@ -33,7 +33,7 @@ Projeyi çalışırken görmek için aşağıdaki videoyu izleyebilirsiniz:
 
 ## Rapor ve Makale
 - [Final Teknik Raporu (PDF)](./finalRapor.pdf)
-- [Projeye dair kişisel makalem (Medium)]([https://medium.com/@selen-yakin/61235349e3eb](https://medium.com/@selen-yakin/ger%C3%A7ek-zamanl%C4%B1-syntax-highlighter-projem-61235349e3eb))
+- [Projeye dair kişisel makalem (Medium)](https://medium.com/@selen-yakin/ger%C3%A7ek-zamanl%C4%B1-syntax-highlighter-projem-61235349e3eb)
 
 
 **Hazırlayan:** SELEN YAKIN
