@@ -29,7 +29,7 @@ Bu proje, Java ile geliştirilmiş, gerçek zamanlı sözdizim renklendirmesi ya
 
 ## Demo Video
 Projeyi çalışırken görmek için aşağıdaki videoyu izleyebilirsiniz:  
-[Demo Video](https://www.youtube.com/watch?v=örneklink)
+[Demo Video](https://youtu.be/kgyO2gIVPHk)
 
 ## Rapor ve Makale
 - [Final Teknik Raporu (PDF)](./finalRapor.pdf)
